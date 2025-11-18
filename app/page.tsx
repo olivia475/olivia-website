@@ -11,4 +11,4 @@ export default function Home() {
   );
 }
 
-{/* next.js, react, tailwindcss, radix-ui primitives */}
+{/* next.js, react, tailwindcss, radix-ui primitives aaaaaaaaa*/}
